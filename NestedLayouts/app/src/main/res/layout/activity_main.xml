@@ -121,7 +121,7 @@
         android:id="@+id/button_roll"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        android:text="@string/button_roll"
+        android:text="roll"
         tools:ignore="TouchTargetSizeCheck" />
 
 </LinearLayout>
